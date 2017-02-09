@@ -5,7 +5,6 @@ title = "How It Works"
 
 +++
 
-Cryptocurrency is going from a tight niche to mainstream awareness so the opportunity is massive. But like most paradigm shifts, those who get in early will profit. Those who wait will be left behind.
 
 <div class="HowItWorks">
   <div class="HowItWorks-info">
