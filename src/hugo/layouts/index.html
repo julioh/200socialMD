@@ -20,18 +20,7 @@
               {{ range where .Data.Pages ".Title" "Header" }}
                 {{ .Content }}
               {{ end }}
-	{{ if eq .Site.Language.Lang "en" }}
-            {{ range where .Data.Pages ".Title" "Get More Information Now" }}
-        <a href="#contact" class="u-btn u-btn-x-large theme-btn-primary">{{ .Title }}</a>
-	    {{ end }}
-	{{ else if eq .Site.Language.Lang "es" }}
-	    {{ range where .Data.Pages ".Title" "Obtener más información ahora" }}
-        <a href="#contact" class="u-btn u-btn-x-large theme-btn-primary">{{ .Title }}</a>
-	    {{ end }}
-	{{ end }}
-            </div>
           </div>
-        </div>
       </div>
     </div>
   </div>
@@ -109,7 +98,7 @@
 		    {{ end }}
                   </div>
                 </div>
-              </div>
+         
             </div>  
           </div>
         </div>
