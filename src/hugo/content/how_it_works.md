@@ -4,8 +4,6 @@ draft = false
 title = "How It Works"
 
 +++
-
-
 <div class="HowItWorks">
   <div class="HowItWorks-info">
     <div class="u-row">

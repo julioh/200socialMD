@@ -16,3 +16,4 @@ title = "Information B2"
 - **Do you have an affiliate program?**
 
 - $200 Social does not have an affiliate program at this time since.
+- $200 Social does not have an affiliate program at this time since.
